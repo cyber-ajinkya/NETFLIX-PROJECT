@@ -667,6 +667,10 @@ a {
   margin-bottom: 1.6rem;
 }
 
+.footer__list li:hover {
+  text-decoration: underline;
+}
+
 .footer__select {
   color: #666;
 }
